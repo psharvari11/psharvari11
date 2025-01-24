@@ -21,7 +21,7 @@
 
 ## 🔧 My Tech Stack
 - **Languages**: HTML, CSS, JavaScript
-- **Libraries/Frameworks**: React.js, Redux, Tailwind CSS
+- **Libraries/Frameworks**: React.js, Tailwind CSS
 - **Tools**: Netlify, Firebase, Git, VS Code
 
 ---
