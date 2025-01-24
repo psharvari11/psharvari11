@@ -10,11 +10,12 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 Recent **BCA Graduate** with a passion for creating dynamic and user-friendly web interfaces.
-- 🌱 Currently learning **React.js** and building a Finance Manager web application to track income, expenses, and savings.
-- 🎯 Motivated by innovation and the opportunity to solve real-world problems through technology.
-- 🎵 Music enthusiast and lover of all things creative.
+##👩‍💻 About Me
+
+-🎓 Recent BCA Graduate with a passion for creating dynamic and user-friendly web interfaces.
+-🌱 Currently exploring React.js, advanced state management, and responsive design.
+-🎯 Motivated by innovation and solving real-world problems through technology.
+-🎵 Music enthusiast and lover of all things creative.
 
 ---
 
