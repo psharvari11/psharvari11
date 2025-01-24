@@ -10,12 +10,12 @@
 
 ---
 
-##👩‍💻 About Me
+## 👩‍💻 About Me
 
--🎓 Recent BCA Graduate with a passion for creating dynamic and user-friendly web interfaces.
--🌱 Currently exploring React.js, advanced state management, and responsive design.
--🎯 Motivated by innovation and solving real-world problems through technology.
--🎵 Music enthusiast and lover of all things creative.
+- 🎓 Recent BCA Graduate with a passion for creating dynamic and user-friendly web interfaces.
+- 🌱 Currently exploring React.js, advanced state management, and responsive design.
+- 🎯 Motivated by innovation and solving real-world problems through technology.
+- 🎵 Music enthusiast and lover of all things creative.
 
 ---
 
