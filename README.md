@@ -41,7 +41,7 @@ A web app to track income, expenses, and savings with **Js**,, and deployed on *
 ---
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio](https://sharvari-patil1103.netlify.app/)
+- 🌐 [Portfolio](https://sharvari-patil-1103.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharvari-patil1103/)
 - 📧 [Email](mailto:patilsharu11@gmail.com)
 
