@@ -5,7 +5,7 @@
 
 <p align="center">
 🚀 <b>Frontend Developer</b> | 🌟 <b>Aspiring MERN Developer</b><br>
-💻 Tech Stack: <b>HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS, Netlify,Firebase</b>
+💻 Tech Stack: <b>HTML, CSS, JavaScript, React.js, Tailwind CSS, Netlify,Firebase</b>
 </p>
 
 ---
