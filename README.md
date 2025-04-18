@@ -4,8 +4,8 @@
 
 
 <p align="center">
-🚀 <b>Frontend Developer</b> | 🌟 <b>Aspiring MERN Developer</b><br>
-💻 Tech Stack: <b>HTML, CSS, JavaScript, React.js, Tailwind CSS, Netlify,Firebase</b>
+🚀 <b>Fullstack Web Developer</b> | 🌟 <b>MERN Developer</b><br>
+💻 Tech Stack: <b>HTML, CSS, JavaScript, React.js, Tailwind CSS,Node Js Express and MongoDb Netlify,Firebase,</b>
 </p>
 
 ---
@@ -21,7 +21,8 @@
 
 ## 🔧 My Tech Stack
 - **Languages**: HTML, CSS, JavaScript
-- **Libraries/Frameworks**: React.js, Tailwind CSS
+- **Libraries/Frameworks**: React.js, Tailwind CSS, Node.js, Express.js
+- **Database**: MongoDB
 - **Tools**: Netlify, Firebase, Git, VS Code
 
 ---
